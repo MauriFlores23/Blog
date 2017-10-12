@@ -1,0 +1,31 @@
+.borde{
+	border:1px #000 solid;
+	text-align: center;
+	height: 50%;
+}
+.color1{
+	background: #eeeeee;
+}
+.color2{
+	background: #fcc314;
+}
+.color3{
+	background: #94ac3c;
+	height: 50px;
+}
+.color4{
+	background: #295ba7;
+	height: 500px;
+}
+
+.slider{
+	background: url(../img/foto1.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+/*Ejemplo de blog*/
+p{
+	font-weight: 2rem;
+}
